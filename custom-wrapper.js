@@ -6,4 +6,4 @@ export class Payment extends LitElement {
   }
 }
 
-window.customElements.define('wrapper-two', Payment);
+window.customElements.define('custom-wrapper', Payment);
